@@ -2,13 +2,13 @@
 
 🎓 Computer Engineering student at KIET Group of Institutions  
 💻 Passionate about Full Stack Development (MERN) & Data Analytics   
-🧠 Practicing DSA with a goal to solve 300+ LeetCode problems    
+🧠 Practicing DSA with a goal to solve 300+ LeetCode and GFG problems    
 🚀 Actively looking for internship opportunities  
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind
 - **Backend**: Node.js, Express.js, MongoDB
-- **Languages**: Java, Python, C++
+- **Languages**: Java
 - **Tools**: Git, GitHub, VS Code, Postman, Excel, MongoDB Compass
 
 <!---
