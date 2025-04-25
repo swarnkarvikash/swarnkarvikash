@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @swarnkarvikash
-- 👀 I’m interested in Web Development and problem solving
-- 🌱 I’m currently learning React.js and Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Vikash 👋
+
+🎓 Computer Engineering student at KIET Group of Institutions  
+💻 Passionate about Full Stack Development (MERN) & Data Analytics   
+🧠 Practicing DSA with a goal to solve 300+ LeetCode problems    
+🚀 Actively looking for internship opportunities  
+
+## 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind
+- **Backend**: Node.js, Express.js, MongoDB
+- **Languages**: Java, Python, C++
+- **Tools**: Git, GitHub, VS Code, Postman, Excel, MongoDB Compass
 
 <!---
 swarnkarvikash/swarnkarvikash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
