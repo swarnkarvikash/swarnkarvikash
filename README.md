@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student at KIET Group of Institutions  
 💻 Passionate about Full Stack Development (MERN) & Data Analytics   
-🧠 Practicing DSA with a goal to solve 300+ LeetCode and GFG problems    
+🧠 Practicing DSA with a goal to solve 400+ LeetCode and GFG problems    
 🚀 Actively looking for internship opportunities  
 
 ## 🛠️ Tech Stack
